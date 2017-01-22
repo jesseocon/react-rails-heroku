@@ -1,0 +1,12 @@
+{
+  "name": "react-rails-heroku-app",
+  "description": "stest application to deploy angular2-webpack app to heroku",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.9.4"
+  },
+  "scripts": {
+    "postinstall": "cd client && npm install && npm run build"
+  }
+}
+
