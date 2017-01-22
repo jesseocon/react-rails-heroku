@@ -1,6 +1,6 @@
 {
   "name": "react-rails-heroku-app",
-  "description": "stest application to deploy angular2-webpack app to heroku",
+  "description": "test application to deploy react on rails app to heroku",
   "version": "1.0.0",
   "engines": {
     "node": "6.9.4"
